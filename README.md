@@ -45,4 +45,5 @@
 - **Performance**: JMeter (carga e estresse).  
 
 ### **Integração com CI/CD**  
-- Exemplo de fluxo:  
+- Exemplo de fluxo:
+  no proprio repositorio
