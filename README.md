@@ -46,7 +46,7 @@
 
 ### **Integração com CI/CD**  
 - Exemplo de fluxo:
-  no proprio repositorio
+  Commit → Pipeline (GitHub Actions/Jenkins) → Testes Automáticos → Deploy
 
 - **IA em QA**: Geração de casos de teste e análise de resultados (ex.: Testim, Applitools).  
 
