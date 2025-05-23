@@ -47,3 +47,28 @@
 ### **Integração com CI/CD**  
 - Exemplo de fluxo:
   no proprio repositorio
+
+- **IA em QA**: Geração de casos de teste e análise de resultados (ex.: Testim, Applitools).  
+
+---  
+
+## **4. Controle e Monitoramento da Qualidade**  
+### **Gestão de Bugs**  
+- Fluxo: Identificação → Priorização → Correção → Validação.  
+- Ferramentas: Jira, Bugzilla.  
+
+### **Observabilidade (Observability)**  
+- Pilares:  
+- **Logs** (registros de eventos).  
+- **Métricas** (dados quantitativos).  
+- **Tracing** (rastreamento de transações).  
+- Ferramentas: Prometheus, Grafana, ELK Stack.  
+
+---  
+
+## **Habilidades Desenvolvidas**  
+✔ Implementar testes **manuais e automatizados**.  
+✔ Criar **planos de teste** adaptáveis (Ágil/DevOps).  
+✔ Integrar QA em **pipelines de CI/CD**.  
+✔ Comunicar problemas e propor melhorias.  
+
